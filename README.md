@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Mohammed Zaid
 
-<!--
-**ZAID6584/ZAID6584** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Engineering Student | 💻 Full Stack Developer | 🤖 AI/ML Enthusiast
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Passionate about building scalable full-stack and AI-powered applications  
+- Strong in Java, DSA, and backend development  
+- Hackathon participant and internship experience  
+- Actively preparing for top product-based company placements  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Java, JavaScript, TypeScript, Python
+- **Frontend:** HTML, CSS, React
+- **Backend:** Node.js,Java (Servlets/JSP)
+- **Database:** MySQL,Supabase
+- **Tools:** Git, GitHub, VS Code
+
+## 📌 Featured Projects
+- **Fitamate AI** – AI-powered personalized fitness assistant
+- **Smart Invoice Generator** – AI-based GST invoice system
+- **Farmified** – Crop prediction using ML
+
+## 📫 Connect with Me
+- Email: mohammedzaid064@gmail.com
+- GitHub: https://github.com/ZAID6584
+
